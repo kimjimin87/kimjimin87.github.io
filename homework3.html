@@ -1,0 +1,71 @@
+HTML<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Two Column - Stanford News Style</title>
+    <style>
+        body {
+            font-family: Georgia, "Times New Roman", serif;
+            margin: 20px;
+            line-height: 1.5;
+            background: #fff;
+            color: #000;
+            max-width: 900px; /* 사진처럼 브라우저 창에 딱 맞게 */
+            margin: 0 auto;
+            padding: 10px;
+        }
+        h1, h2 {
+            margin: 0;
+            padding: 0;
+        }
+        h2 {
+            font-size: 1.8em;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        .byline {
+            font-style: italic;
+            font-size: 0.95em;
+            color: #444;
+            margin-bottom: 12px;
+        }
+        .container {
+            overflow: hidden; /* float clearfix */
+        }
+        .left-column, .right-column {
+            float: left;
+            width: 48%;
+            padding: 0 15px;
+            box-sizing: border-box;
+        }
+        .left-column {
+            margin-right: 4%; /* 가운데 살짝 띄우기 */
+        }
+        hr {
+            border: 0;
+            border-top: 1px solid #000;
+            margin: 20px 0;
+        }
+        p {
+            margin: 12px 0;
+            text-align: justify; /* 신문처럼 정렬 */
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="left-column">
+        <h2>Stanford researchers find a quicker, cheaper way to sort isotopes</h2>
+        <p class="byline">BY EMMANUEL ROMERO L.A. Cicero Richard Zare</p>
+        <p>Professor Richard Zare in his lab. Whether it's the summer grass that tickles your feet or the red Bordeaux smacking on your palate your lab. These markers, called isotopes, can tell scientists where the molecules that compose a substance are from, where they traveled and what happened to them along the way. But doing these analyses has been complex and costly. Now, Stanford chemists have developed a new method to make isotopic analysis easier and less expensive.</p>
+    </div>
+
+    <div class="right-column">
+        <h2>Chance to dance: Enthusiasts fly to Stanford for dance weekend</h2>
+        <p class="byline">BY CYNTHIA HAVEN L.A. Cicero Lindy Hop instruction</p>
+        <p>Stanford is an epicenter for the vintage dance movement—but life in the Stanford dance world is not all foxtrots and tangos. The June 26-28 Stanford's Dance Weekend in Roble Gym offers something for modern dance enthusiasts, too: the hustle, the West Coast swing, 1970s disco hustle, Bollywood and blues fusion.</p>
+    </div>
+</div>
+
+<p style="text-align: center; font-style: italic; margin-top: 30px; color: #555;">
