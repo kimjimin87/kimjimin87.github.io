@@ -11,11 +11,10 @@
 
 </body>
 <p><a href="homework1.html" homwork1 >/a>.</a><p>
-<p><a href="homework2.html" homwork2 >/a>.</a><p></p>
-<p><a href="homework3.html" homwork3 >/a>.</a><p></p>
-<p><a href="homework4.html" homwork4 >/a>.</a><p></p>
+<p><a href="homework2.html" homwork2 >/a>.</a><p>
+<p><a href="homework3.html" homwork3 >/a>.</a><p>
+<p><a href="homework4.html" homwork4 >/a>.</a><p>
 
      
 </body>
 </html>
-
