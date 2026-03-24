@@ -15,6 +15,10 @@
 <p><a href="homework3.html" homwork3 >/homework3>.</a><p>
 <p><a href="homework4.html" homwork4 >/homework4>.</a><p>
 
+<p><a href="homework5.html" welcome.php >/homework5>.</a><p>
+<p><a href="homework6.html" wlecome_gep >/homework6>.</a><p>
+<p><a href="homework7.html" rect.html >/homework7>.</a><p>
+<p><a href="homework8.html"  >/homework8>.</a><p>
      
 </body>
 </html>
